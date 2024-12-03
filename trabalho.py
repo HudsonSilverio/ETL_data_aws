@@ -1,3 +1,3 @@
-# portry run python trabalho.py
+# poetry run python trabalho.py
 
-print("heloo")
+print("ola")
